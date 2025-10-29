@@ -3,7 +3,9 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Collectif ACCRO  ![Texte décrivant l'image]({% link images/WhatsApp Image 2024-06-12 à 12.43.04_69306bab.jpg % width="300" height="175"})
+# Collectif ACCRO 
+
+![Texte décrivant l'image]({% link images/ACCRO_Bike_outline (1).png %})
 
 ACCRO est un **collectif**  cycliste composé de plus de 100 personnes regroupant des novices du vélo comme des personnes plus aguerries. Notre but est de promouvoir, favoriser et encourager la pratique cycliste sur le Grand Avignon. Pour cela nous avons organisé et nous organisons des évènements comme des **social ride (Sortie vélo accessible à tous et conviviale)**, des projections cinématographiques en lien avec le vélo.
 
