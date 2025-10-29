@@ -9,8 +9,8 @@ Vous retrouverez ici les liens permettant d'accéder aux émissions hébergées 
 
 #### Épisode 1 : 
 
-https://www.aioli-radio.org/emissions/infos-reportages/accro-show-1-yolo/ 
+[Présentation de l'émission](https://www.aioli-radio.org/emissions/infos-reportages/accro-show-1-yolo/)
 
 #### Épisode 2 : 
 
- https://www.aioli-radio.org/emissions/infos-reportages/accro-show-2/ 
+ [BICIMAN](https://www.aioli-radio.org/emissions/infos-reportages/accro-show-2/) 
