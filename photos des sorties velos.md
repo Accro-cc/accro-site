@@ -5,8 +5,4 @@ in_menu: true
 ---
 ### **Sortie autour d'Avignon 2024-2025**
 
-![Texte décrivant l'image]({% link images/Sortie Gordes - Rudy, Antoine.jpg %})
-
-![Texte décrivant l'image]({% link images/Pista Café - Chill.jpg %})
-
-![Texte décrivant l'image]({% link images/Sortie - Elias, Rudy, Quentin.jpg %}) 
+![Texte décrivant l'image]({% link images/canva_montage.png %}) 
