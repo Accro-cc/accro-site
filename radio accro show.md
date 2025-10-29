@@ -1,6 +1,6 @@
 ---
 title: "Radio Accro Show"
-order: 4
+order: 2
 in_menu: true
 ---
 Le collectif **ACCRO** développe une émission radio pour élargir son spectre et son panache, puis aussi pour se faire kiffer. C'est important !
