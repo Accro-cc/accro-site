@@ -5,4 +5,4 @@ in_menu: true
 ---
 ### **Sortie autour d'Avignon 2024-2025**
 
-![Texte décrivant l'image]({% link images/canva_montage.png %}) 
+![Oups ça chie dans la colle!]({% link images/canva_montage.png %}) 
