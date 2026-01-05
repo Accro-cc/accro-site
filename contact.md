@@ -5,7 +5,7 @@ in_menu: true
 ---
 Pour nous contacter : 
 
-Mail : [accro.cycling.culture@gmail.com](mailto:accro.cycling.culture@gmail.com)
+[accro.cycling.culture@gmail.com](mailto:accro.cycling.culture@gmail.com)
 
 [Instagram](https://www.instagram.com/accro.cc/)
 
