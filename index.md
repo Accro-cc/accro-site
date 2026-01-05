@@ -10,6 +10,6 @@ ACCRO est un **collectif**  cycliste composé de plus de 100 personnes regroupan
 
 Pour cela, nous avons organisé et nous organisons des évènements comme des **social ride (Sortie vélo accessible à tous et conviviale)**, des projections cinématographiques en lien avec le vélo.
 
-Nous avons aussi une émission radio **Accro Show** supportée et hébergée par **Radio Aioli** où l'on discute des sujets autour du vélo au sens large avec 3 premières émissions variées pour le moment. 
+Nous avons aussi une émission radio **Accro Show** supportée et hébergée par **Radio Aioli** où l'on discute des sujets autour du vélo au sens large avec des émissions variées. 
 
 ![Texte décrivant l'image]({% link images/ACCRO_Bike_outline (1).png %}) 
