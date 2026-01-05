@@ -12,4 +12,4 @@ Pour cela, nous avons organisé et nous organisons des évènements comme des **
 
 Nous avons aussi une émission radio **Accro Show** supportée et hébergée par **Radio Aioli** où l'on discute des sujets autour du vélo au sens large avec 3 premières émissions variées pour le moment. 
 
-       ![Texte décrivant l'image]({% link images/ACCRO_Bike_outline reduced.png %}) 
+![Texte décrivant l'image]({% link images/ACCRO_Bike_outline (1).png %}) 
