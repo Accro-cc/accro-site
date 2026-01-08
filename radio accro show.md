@@ -15,4 +15,6 @@ Vous retrouverez ici les liens permettant d'accéder aux émissions hébergées 
 
 #### Épisode 4 : [OpenRunner](https://www.aioli-radio.org/emissions/infos-reportages/infos-locales/accro-show-4/)
 
-#### Épisode 5 : [Mobilité sur Avignon avec Mr Tocabens, délégué à la ville apaisée et respirable](https://www.aioli-radio.org/emissions/infos-reportages/infos-locales/accro-show-6/) 
+#### Épisode 5 : [Mobilité sur Avignon avec Mr Tocabens, délégué à la ville apaisée et respirable](https://www.aioli-radio.org/emissions/infos-reportages/infos-locales/accro-show-5/) 
+
+#### Épisode 6 : [Donnons des elles au vélo, Claire Floret](https://www.aioli-radio.org/emissions/infos-reportages/infos-locales/accro-show-6/) 
